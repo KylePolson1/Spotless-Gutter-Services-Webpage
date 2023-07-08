@@ -1,0 +1,28 @@
+body {
+  background-color: #303030 ;
+}
+
+.container {
+  background-color: #262626;
+  color: #FFF;
+}
+
+.about-section {
+  color: #FFF;
+  font-size: 22px;
+  justify-content: center;
+}
+
+.about-title {
+  color: #FFF;
+  font-size: 84px;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.about-text {
+  color: #FFF;
+  font-size: 22px;
+  margin-bottom: 50px;
+  justify-content: center;
+}
