@@ -1,3 +1,4 @@
+<script type="module">
 import React from 'react';
 import Navbar from './components/Navbar';
 import './App.css';
@@ -22,3 +23,4 @@ function App() {
 }
 
 export default App;
+</script>
